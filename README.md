@@ -1,0 +1,1 @@
+# cp_minha-cidade-checkpoint
